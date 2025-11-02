@@ -15,7 +15,7 @@ for password in passwords:
         if length <8:
             print("   Too short")
         if not any( char.isupper() for char in password):
-            print("   No Uppder Case")
+            print("   No Upper Case")
         if not any( char.islower() for char in password):
             print("   No Lower Case")
     print("----")

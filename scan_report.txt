@@ -1,0 +1,7 @@
+PORTS SCAN REPORTTarget : 10.133.57.233
+Ports scanned : [22, 80, 443]
+Time: 2025-11-03 00:23:18.872010
+Open ports: [22]
+22: OPEN --> SSH
+80: CLOSED
+443: CLOSED
